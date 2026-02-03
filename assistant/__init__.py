@@ -1,0 +1,1 @@
+"""Clawdbot-Plus Assistant package."""
